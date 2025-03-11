@@ -21,3 +21,4 @@ Speedtest Tracker is containerized so you can run it anywhere you run your conta
 - [Frequently Asked Questions](https://docs.speedtest-tracker.dev/help/faqs) are common questions that can help you resolve issues.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=alexjustesen/speedtest-tracker&type=Date)](https://star-history.com/#alexjustesen/speedtest-tracker&Date)
+sss
